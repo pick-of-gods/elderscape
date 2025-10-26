@@ -1,0 +1,10 @@
+name = "elderscape"
+main = "src/index.js"
+compatibility_date = "2025-10-25"
+
+[[kv_namespaces]]
+binding = "ELDERSCAPE_KV"
+id = "45b66378f5774ce78787331834db0496"
+
+[site]
+bucket = "./public"
